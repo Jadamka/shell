@@ -1,3 +1,0 @@
-/home/adamka/Dev/Projects/Shell/build/CMakeFiles/Shell.dir
-/home/adamka/Dev/Projects/Shell/build/CMakeFiles/edit_cache.dir
-/home/adamka/Dev/Projects/Shell/build/CMakeFiles/rebuild_cache.dir
